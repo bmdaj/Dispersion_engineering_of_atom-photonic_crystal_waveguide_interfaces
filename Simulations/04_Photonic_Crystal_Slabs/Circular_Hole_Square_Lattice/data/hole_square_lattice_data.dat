@@ -1,0 +1,415 @@
+Initializing eigensolver data
+Computing 1 bands with 1e-07 tolerance
+Working in 3 dimensions.
+Grid size is 32 x 32 x 320.
+Solving for 1 bands at a time.
+Creating Maxwell data...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 1, 0)
+     (0, 0, 10)
+Cell volume = 10
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 1, -0)
+     (0, -0, 0.1)
+Geometric objects:
+     block, center = (0,0,0)
+          size (1e+20,1e+20,0.689655)
+          axes (1,0,0), (0,1,0), (0,0,1)
+     cylinder, center = (0,0,0)
+          radius 0.355172, height 0.689655, axis (0, 0, 1)
+Geometric object tree has depth 1 and 10 object nodes (vs. 2 actual objects)
+Initializing epsilon function...
+Allocating fields...
+Solving for band polarization: zodd.
+Initializing fields to random numbers...
+64 k-points
+  Vector3<0.0, 0.0, 0.0>
+  Vector3<0.023809523809523808, 0.0, 0.0>
+  Vector3<0.047619047619047616, 0.0, 0.0>
+  Vector3<0.07142857142857142, 0.0, 0.0>
+  Vector3<0.09523809523809523, 0.0, 0.0>
+  Vector3<0.11904761904761904, 0.0, 0.0>
+  Vector3<0.14285714285714285, 0.0, 0.0>
+  Vector3<0.16666666666666666, 0.0, 0.0>
+  Vector3<0.19047619047619047, 0.0, 0.0>
+  Vector3<0.21428571428571427, 0.0, 0.0>
+  Vector3<0.23809523809523808, 0.0, 0.0>
+  Vector3<0.26190476190476186, 0.0, 0.0>
+  Vector3<0.2857142857142857, 0.0, 0.0>
+  Vector3<0.30952380952380953, 0.0, 0.0>
+  Vector3<0.3333333333333333, 0.0, 0.0>
+  Vector3<0.3571428571428571, 0.0, 0.0>
+  Vector3<0.38095238095238093, 0.0, 0.0>
+  Vector3<0.40476190476190477, 0.0, 0.0>
+  Vector3<0.42857142857142855, 0.0, 0.0>
+  Vector3<0.45238095238095233, 0.0, 0.0>
+  Vector3<0.47619047619047616, 0.0, 0.0>
+  Vector3<0.5, 0.0, 0.0>
+  Vector3<0.5, 0.023809523809523808, 0.0>
+  Vector3<0.5, 0.047619047619047616, 0.0>
+  Vector3<0.5, 0.07142857142857142, 0.0>
+  Vector3<0.5, 0.09523809523809523, 0.0>
+  Vector3<0.5, 0.11904761904761904, 0.0>
+  Vector3<0.5, 0.14285714285714285, 0.0>
+  Vector3<0.5, 0.16666666666666666, 0.0>
+  Vector3<0.5, 0.19047619047619047, 0.0>
+  Vector3<0.5, 0.21428571428571427, 0.0>
+  Vector3<0.5, 0.23809523809523808, 0.0>
+  Vector3<0.5, 0.26190476190476186, 0.0>
+  Vector3<0.5, 0.2857142857142857, 0.0>
+  Vector3<0.5, 0.30952380952380953, 0.0>
+  Vector3<0.5, 0.3333333333333333, 0.0>
+  Vector3<0.5, 0.3571428571428571, 0.0>
+  Vector3<0.5, 0.38095238095238093, 0.0>
+  Vector3<0.5, 0.40476190476190477, 0.0>
+  Vector3<0.5, 0.42857142857142855, 0.0>
+  Vector3<0.5, 0.45238095238095233, 0.0>
+  Vector3<0.5, 0.47619047619047616, 0.0>
+  Vector3<0.5, 0.5, 0.0>
+  Vector3<0.47619047619047616, 0.47619047619047616, 0.0>
+  Vector3<0.4523809523809524, 0.4523809523809524, 0.0>
+  Vector3<0.4285714285714286, 0.4285714285714286, 0.0>
+  Vector3<0.40476190476190477, 0.40476190476190477, 0.0>
+  Vector3<0.38095238095238093, 0.38095238095238093, 0.0>
+  Vector3<0.35714285714285715, 0.35714285714285715, 0.0>
+  Vector3<0.33333333333333337, 0.33333333333333337, 0.0>
+  Vector3<0.30952380952380953, 0.30952380952380953, 0.0>
+  Vector3<0.2857142857142857, 0.2857142857142857, 0.0>
+  Vector3<0.2619047619047619, 0.2619047619047619, 0.0>
+  Vector3<0.23809523809523814, 0.23809523809523814, 0.0>
+  Vector3<0.2142857142857143, 0.2142857142857143, 0.0>
+  Vector3<0.19047619047619047, 0.19047619047619047, 0.0>
+  Vector3<0.16666666666666669, 0.16666666666666669, 0.0>
+  Vector3<0.1428571428571429, 0.1428571428571429, 0.0>
+  Vector3<0.11904761904761907, 0.11904761904761907, 0.0>
+  Vector3<0.09523809523809523, 0.09523809523809523, 0.0>
+  Vector3<0.07142857142857145, 0.07142857142857145, 0.0>
+  Vector3<0.04761904761904767, 0.04761904761904767, 0.0>
+  Vector3<0.023809523809523836, 0.023809523809523836, 0.0>
+  Vector3<0.0, 0.0, 0.0>
+elapsed time for initialization: 0.2749819755554199
+solve_kpoint (0,0,0):
+zoddfreqs:, 1, 0, 0, 0, 0, 0
+elapsed time for k point: 0.0190885066986084
+solve_kpoint (0.0238095,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+zoddfreqs:, 2, 0.0238095, 0, 0, 0.0238095, 0.023303
+elapsed time for k point: 0.8254859447479248
+solve_kpoint (0.047619,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+zoddfreqs:, 3, 0.047619, 0, 0, 0.047619, 0.0465819
+elapsed time for k point: 0.80739426612854
+solve_kpoint (0.0714286,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 4, 0.0714286, 0, 0, 0.0714286, 0.0698093
+elapsed time for k point: 0.9812560081481934
+solve_kpoint (0.0952381,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 5, 0.0952381, 0, 0, 0.0952381, 0.0929513
+elapsed time for k point: 0.9797694683074951
+solve_kpoint (0.119048,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 6, 0.119048, 0, 0, 0.119048, 0.115963
+elapsed time for k point: 0.9801995754241943
+solve_kpoint (0.142857,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 7, 0.142857, 0, 0, 0.142857, 0.138781
+elapsed time for k point: 1.150820016860962
+solve_kpoint (0.166667,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 8, 0.166667, 0, 0, 0.166667, 0.161321
+elapsed time for k point: 1.1599247455596924
+solve_kpoint (0.190476,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 9, 0.190476, 0, 0, 0.190476, 0.183471
+elapsed time for k point: 1.325035810470581
+solve_kpoint (0.214286,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 10, 0.214286, 0, 0, 0.214286, 0.205103
+elapsed time for k point: 1.4896330833435059
+solve_kpoint (0.238095,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 11, 0.238095, 0, 0, 0.238095, 0.226102
+elapsed time for k point: 1.355679988861084
+solve_kpoint (0.261905,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 12, 0.261905, 0, 0, 0.261905, 0.246388
+elapsed time for k point: 1.5103075504302979
+solve_kpoint (0.285714,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 13, 0.285714, 0, 0, 0.285714, 0.265938
+elapsed time for k point: 1.531982183456421
+solve_kpoint (0.309524,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 14, 0.309524, 0, 0, 0.309524, 0.284759
+elapsed time for k point: 1.6766276359558105
+solve_kpoint (0.333333,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 15, 0.333333, 0, 0, 0.333333, 0.302875
+elapsed time for k point: 1.661851406097412
+solve_kpoint (0.357143,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 16, 0.357143, 0, 0, 0.357143, 0.320308
+elapsed time for k point: 1.660954236984253
+solve_kpoint (0.380952,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 17, 0.380952, 0, 0, 0.380952, 0.337081
+elapsed time for k point: 1.559844732284546
+solve_kpoint (0.404762,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 18, 0.404762, 0, 0, 0.404762, 0.353202
+elapsed time for k point: 1.3954851627349854
+solve_kpoint (0.428571,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 19, 0.428571, 0, 0, 0.428571, 0.368649
+elapsed time for k point: 1.3700799942016602
+solve_kpoint (0.452381,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 20, 0.452381, 0, 0, 0.452381, 0.383288
+elapsed time for k point: 1.4161467552185059
+solve_kpoint (0.47619,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 21, 0.47619, 0, 0, 0.47619, 0.396455
+elapsed time for k point: 1.586026906967163
+solve_kpoint (0.5,0,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 9 iterations.
+zoddfreqs:, 22, 0.5, 0, 0, 0.5, 0.403713
+elapsed time for k point: 1.7257933616638184
+solve_kpoint (0.5,0.0238095,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 23, 0.5, 0.0238095, 0, 0.500567, 0.40399
+elapsed time for k point: 1.018751859664917
+solve_kpoint (0.5,0.047619,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 24, 0.5, 0.047619, 0, 0.502262, 0.404819
+elapsed time for k point: 1.026747465133667
+solve_kpoint (0.5,0.0714286,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 25, 0.5, 0.0714286, 0, 0.505076, 0.40619
+elapsed time for k point: 0.9914214611053467
+solve_kpoint (0.5,0.0952381,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 26, 0.5, 0.0952381, 0, 0.508989, 0.40809
+elapsed time for k point: 1.0164194107055664
+solve_kpoint (0.5,0.119048,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 27, 0.5, 0.119048, 0, 0.513977, 0.4105
+elapsed time for k point: 1.0074176788330078
+solve_kpoint (0.5,0.142857,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 28, 0.5, 0.142857, 0, 0.520008, 0.413397
+elapsed time for k point: 1.003472089767456
+solve_kpoint (0.5,0.166667,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 29, 0.5, 0.166667, 0, 0.527046, 0.416756
+elapsed time for k point: 1.0127410888671875
+solve_kpoint (0.5,0.190476,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 30, 0.5, 0.190476, 0, 0.535053, 0.420549
+elapsed time for k point: 1.0056734085083008
+solve_kpoint (0.5,0.214286,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 31, 0.5, 0.214286, 0, 0.543984, 0.424747
+elapsed time for k point: 0.9989078044891357
+solve_kpoint (0.5,0.238095,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 32, 0.5, 0.238095, 0, 0.553795, 0.429322
+elapsed time for k point: 1.009526252746582
+solve_kpoint (0.5,0.261905,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 33, 0.5, 0.261905, 0, 0.564441, 0.434243
+elapsed time for k point: 1.0256662368774414
+solve_kpoint (0.5,0.285714,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 34, 0.5, 0.285714, 0, 0.575876, 0.439481
+elapsed time for k point: 1.0182931423187256
+solve_kpoint (0.5,0.309524,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 35, 0.5, 0.309524, 0, 0.588052, 0.445005
+elapsed time for k point: 1.0089757442474365
+solve_kpoint (0.5,0.333333,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 36, 0.5, 0.333333, 0, 0.600925, 0.450782
+elapsed time for k point: 1.1768333911895752
+solve_kpoint (0.5,0.357143,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 37, 0.5, 0.357143, 0, 0.614452, 0.456774
+elapsed time for k point: 1.1838123798370361
+solve_kpoint (0.5,0.380952,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 38, 0.5, 0.380952, 0, 0.628589, 0.462931
+elapsed time for k point: 1.1758601665496826
+solve_kpoint (0.5,0.404762,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 39, 0.5, 0.404762, 0, 0.643298, 0.46918
+elapsed time for k point: 1.1746833324432373
+solve_kpoint (0.5,0.428571,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 40, 0.5, 0.428571, 0, 0.658539, 0.47539
+elapsed time for k point: 1.3350892066955566
+solve_kpoint (0.5,0.452381,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 41, 0.5, 0.452381, 0, 0.674276, 0.481275
+elapsed time for k point: 1.370267391204834
+solve_kpoint (0.5,0.47619,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 42, 0.5, 0.47619, 0, 0.690476, 0.486105
+elapsed time for k point: 1.3342621326446533
+solve_kpoint (0.5,0.5,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 43, 0.5, 0.5, 0, 0.707107, 0.488186
+elapsed time for k point: 1.3404831886291504
+solve_kpoint (0.47619,0.47619,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 10 iterations.
+zoddfreqs:, 44, 0.47619, 0.47619, 0, 0.673435, 0.484071
+elapsed time for k point: 1.8630971908569336
+solve_kpoint (0.452381,0.452381,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 45, 0.452381, 0.452381, 0, 0.639763, 0.474394
+elapsed time for k point: 1.3417658805847168
+solve_kpoint (0.428571,0.428571,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 46, 0.428571, 0.428571, 0, 0.606092, 0.461745
+elapsed time for k point: 1.360142469406128
+solve_kpoint (0.404762,0.404762,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 47, 0.404762, 0.404762, 0, 0.57242, 0.447066
+elapsed time for k point: 1.3399248123168945
+solve_kpoint (0.380952,0.380952,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 48, 0.380952, 0.380952, 0, 0.538748, 0.430763
+elapsed time for k point: 1.1730823516845703
+solve_kpoint (0.357143,0.357143,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 49, 0.357143, 0.357143, 0, 0.505076, 0.413051
+elapsed time for k point: 1.1598212718963623
+solve_kpoint (0.333333,0.333333,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 50, 0.333333, 0.333333, 0, 0.471405, 0.39404
+elapsed time for k point: 1.3445332050323486
+solve_kpoint (0.309524,0.309524,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 51, 0.309524, 0.309524, 0, 0.437733, 0.373771
+elapsed time for k point: 1.410928726196289
+solve_kpoint (0.285714,0.285714,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 52, 0.285714, 0.285714, 0, 0.404061, 0.352237
+elapsed time for k point: 1.5489778518676758
+solve_kpoint (0.261905,0.261905,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 53, 0.261905, 0.261905, 0, 0.370389, 0.329401
+elapsed time for k point: 1.551828145980835
+solve_kpoint (0.238095,0.238095,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 54, 0.238095, 0.238095, 0, 0.336718, 0.305213
+elapsed time for k point: 1.523155689239502
+solve_kpoint (0.214286,0.214286,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 55, 0.214286, 0.214286, 0, 0.303046, 0.279617
+elapsed time for k point: 1.5433573722839355
+solve_kpoint (0.190476,0.190476,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 56, 0.190476, 0.190476, 0, 0.269374, 0.252559
+elapsed time for k point: 1.5861732959747314
+solve_kpoint (0.166667,0.166667,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 8 iterations.
+zoddfreqs:, 57, 0.166667, 0.166667, 0, 0.235702, 0.224006
+elapsed time for k point: 1.5352418422698975
+solve_kpoint (0.142857,0.142857,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 58, 0.142857, 0.142857, 0, 0.202031, 0.194036
+elapsed time for k point: 1.3780133724212646
+solve_kpoint (0.119048,0.119048,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 7 iterations.
+zoddfreqs:, 59, 0.119048, 0.119048, 0, 0.168359, 0.162908
+elapsed time for k point: 1.33662748336792
+solve_kpoint (0.0952381,0.0952381,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 6 iterations.
+zoddfreqs:, 60, 0.0952381, 0.0952381, 0, 0.134687, 0.130977
+elapsed time for k point: 1.1994366645812988
+solve_kpoint (0.0714286,0.0714286,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 61, 0.0714286, 0.0714286, 0, 0.101015, 0.0985488
+elapsed time for k point: 1.0216491222381592
+solve_kpoint (0.047619,0.047619,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 5 iterations.
+zoddfreqs:, 62, 0.047619, 0.047619, 0, 0.0673435, 0.0658291
+elapsed time for k point: 1.05519700050354
+solve_kpoint (0.0238095,0.0238095,0):
+Solving for bands 1 to 1...
+Finished solving for bands 1 to 1 after 4 iterations.
+zoddfreqs:, 63, 0.0238095, 0.0238095, 0, 0.0336718, 0.0329498
+elapsed time for k point: 0.8225820064544678
+solve_kpoint (0,0,0):
+zoddfreqs:, 64, 0, 0, 0, 0, 0
+elapsed time for k point: 0.012718915939331055
+Band 1 range: 0.0 at Vector3<0.0, 0.0, 0.0> to 0.48818578210549957 at Vector3<0.5, 0.5, 0.0>
+total elapsed time for run: 78.79194641113281
+done
+
+Elapsed run time = 78.8315 s
+zoddfreqs:, k index, k1, k2, k3, kmag/2pi, zodd band 1
