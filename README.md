@@ -7,7 +7,7 @@ To cite this work please refer to the original text:
 
 ## Structure of the repository
 
-In this repository one can find the necessary files to reproduce the all of the results in the thesis. The structure of the repository works its way up in levels of software difficulty and has the following entries:
+In this repository one can find the necessary files to reproduce all of the results in the thesis. The structure of the repository works its way up in levels of software difficulty and has the following entries:
 
 - **Example** (Folder 0): Brief overview of how to calculate the main Figures of Merit (FOMs) in the case of the hexagonal holed hexagonal lattice photonic crystal slab, with an explanation on how to run a Lumerical FDTD simulation through its Python API. This example goes is the FDTD example (Appendix C) mentioned in the thesis.
 
