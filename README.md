@@ -2,7 +2,8 @@
 
 This repository serves as a compilation of the associated to Beñat Martinez de Aguirre's MSc. Thesis in Computational Physics at the NBI. Using analytical methods, MEEP and Lumerical we study and optimize the dispersion properties of photonic crystals as well as the emission properties of atoms close to these structures.
 
-Citing: Martinez de Aguirre, B. *Dispersion engineering of atom-nanophotonic crystal waveguide interfaces*. MSc. Thesis (University of Copenhagen, 2022)
+To cite this work please refer to the original text:
+> 1. Martinez de Aguirre, B. *Dispersion engineering of atom-nanophotonic crystal waveguide interfaces*. MSc. Thesis (University of Copenhagen, 2022)
 
 ## Structure of the repository
 
