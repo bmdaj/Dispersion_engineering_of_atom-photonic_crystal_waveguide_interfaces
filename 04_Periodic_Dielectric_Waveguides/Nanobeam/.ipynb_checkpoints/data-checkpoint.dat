@@ -1,0 +1,97 @@
+Initializing eigensolver data
+Computing 6 bands with 1e-07 tolerance
+Working in 3 dimensions.
+Grid size is 12 x 180 x 180.
+Solving for 6 bands at a time.
+Creating Maxwell data...
+Mesh size is 3.
+Lattice vectors:
+     (1, 0, 0)
+     (0, 15, 0)
+     (0, 0, 15)
+Cell volume = 225
+Reciprocal lattice vectors (/ 2 pi):
+     (1, -0, 0)
+     (-0, 0.0666667, -0)
+     (0, -0, 0.0666667)
+Geometric objects:
+     block, center = (0,-0.873134,0)
+          size (1e+20,1,0.597015)
+          axes (1,0,0), (0,1,0), (0,0,1)
+     block, center = (0,0.873134,0)
+          size (1e+20,1,0.597015)
+          axes (1,0,0), (0,1,0), (0,0,1)
+     cylinder, center = (0,0.873134,0)
+          radius 0.173134, height 0.597015, axis (0, 0, 1)
+     cylinder, center = (0,-0.873134,0)
+          radius 0.173134, height 0.597015, axis (0, 0, 1)
+     cylinder, center = (0,-0.873134,0)
+          radius 0.173134, height 0.597015, axis (0, 0, 1)
+     cylinder, center = (0,0.873134,0)
+          radius 0.173134, height 0.597015, axis (0, 0, 1)
+Geometric object tree has depth 2 and 10 object nodes (vs. 6 actual objects)
+Initializing epsilon function...
+Allocating fields...
+Solving for band polarization: .
+Initializing fields to random numbers...
+52 k-points
+  Vector3<0.3, 0.0, 0.0>
+  Vector3<0.30392156862745096, 0.0, 0.0>
+  Vector3<0.307843137254902, 0.0, 0.0>
+  Vector3<0.31176470588235294, 0.0, 0.0>
+  Vector3<0.3156862745098039, 0.0, 0.0>
+  Vector3<0.3196078431372549, 0.0, 0.0>
+  Vector3<0.32352941176470584, 0.0, 0.0>
+  Vector3<0.32745098039215687, 0.0, 0.0>
+  Vector3<0.33137254901960783, 0.0, 0.0>
+  Vector3<0.3352941176470588, 0.0, 0.0>
+  Vector3<0.3392156862745098, 0.0, 0.0>
+  Vector3<0.3431372549019608, 0.0, 0.0>
+  Vector3<0.34705882352941175, 0.0, 0.0>
+  Vector3<0.3509803921568627, 0.0, 0.0>
+  Vector3<0.3549019607843137, 0.0, 0.0>
+  Vector3<0.3588235294117647, 0.0, 0.0>
+  Vector3<0.3627450980392157, 0.0, 0.0>
+  Vector3<0.36666666666666664, 0.0, 0.0>
+  Vector3<0.37058823529411766, 0.0, 0.0>
+  Vector3<0.37450980392156863, 0.0, 0.0>
+  Vector3<0.3784313725490196, 0.0, 0.0>
+  Vector3<0.38235294117647056, 0.0, 0.0>
+  Vector3<0.38627450980392153, 0.0, 0.0>
+  Vector3<0.39019607843137255, 0.0, 0.0>
+  Vector3<0.3941176470588235, 0.0, 0.0>
+  Vector3<0.3980392156862745, 0.0, 0.0>
+  Vector3<0.4019607843137255, 0.0, 0.0>
+  Vector3<0.40588235294117647, 0.0, 0.0>
+  Vector3<0.40980392156862744, 0.0, 0.0>
+  Vector3<0.4137254901960784, 0.0, 0.0>
+  Vector3<0.41764705882352937, 0.0, 0.0>
+  Vector3<0.4215686274509804, 0.0, 0.0>
+  Vector3<0.42549019607843136, 0.0, 0.0>
+  Vector3<0.4294117647058823, 0.0, 0.0>
+  Vector3<0.43333333333333335, 0.0, 0.0>
+  Vector3<0.4372549019607843, 0.0, 0.0>
+  Vector3<0.4411764705882353, 0.0, 0.0>
+  Vector3<0.44509803921568625, 0.0, 0.0>
+  Vector3<0.4490196078431372, 0.0, 0.0>
+  Vector3<0.45294117647058824, 0.0, 0.0>
+  Vector3<0.4568627450980392, 0.0, 0.0>
+  Vector3<0.46078431372549017, 0.0, 0.0>
+  Vector3<0.4647058823529412, 0.0, 0.0>
+  Vector3<0.46862745098039216, 0.0, 0.0>
+  Vector3<0.4725490196078431, 0.0, 0.0>
+  Vector3<0.4764705882352941, 0.0, 0.0>
+  Vector3<0.48039215686274506, 0.0, 0.0>
+  Vector3<0.4843137254901961, 0.0, 0.0>
+  Vector3<0.48823529411764705, 0.0, 0.0>
+  Vector3<0.492156862745098, 0.0, 0.0>
+  Vector3<0.49607843137254903, 0.0, 0.0>
+  Vector3<0.5, 0.0, 0.0>
+elapsed time for initialization: 0.46370649337768555
+solve_kpoint (0.3,0,0):
+Solving for bands 1 to 6...
+freqs:, k index, k1, k2, k3, kmag/2pi, band 1, band 2, band 3, band 4, band 5, band 6
+    iteration    2: trace = 0.7814200963010521 (152.413% change)
+    iteration    4: trace = 0.5794432403048485 (7.69079% change)
+    iteration    6: trace = 0.5496001387018215 (1.87578% change)
+    iteration    8: trace = 0.540521511445781 (0.56962% change)
