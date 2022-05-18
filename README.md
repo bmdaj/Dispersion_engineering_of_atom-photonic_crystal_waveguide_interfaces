@@ -17,7 +17,7 @@ In this repository one can find the necessary files to reproduce all of the resu
 
 - **New designs for enhanced FOMs** (Folder 6): Novel calculations for the designs leading to improved FOMs. This includes the calculations for the different atoms and those related to the improved design for Caesium (Cs). 
 
-Note that all references are available in the thesis.
+Note that all references are available in the original thesis cited above.
 ## Contact
 
 For more information or comments please feel free to reach out at: <bmdaj13@gmail.com>
