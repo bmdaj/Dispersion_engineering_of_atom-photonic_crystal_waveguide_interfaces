@@ -1,6 +1,6 @@
 # Dispersion engineering of atom-nanophotonic crystal waveguide interfaces
 
-This repository serves as a compilation of the code associated to Beñat Martinez de Aguirre's MSc. Thesis in Computational Physics at the Niels Bohr Institute (NBI). Using analytical methods, Meep and Lumerical we study and optimize the dispersion properties of photonic crystals as well as the emission properties of atoms close to these structures.
+This repository serves as a compilation of the code associated to Beñat Martinez de Aguirre's MSc. Thesis in Computational Physics at the Niels Bohr Institute (NBI). Using analytical methods, Meep and Lumerical we study and optimize the dispersion properties of photonic crystals as well as the emission properties of atoms close to these structures. This will serve for an experimental implementation of a quantum simulator using atom-atom interactions mediated by light.
 
 To cite this work please refer to the original text:
 > 1. Martinez de Aguirre, B. *Dispersion engineering of atom-nanophotonic crystal waveguide interfaces*. MSc. Thesis (University of Copenhagen, 2022)
